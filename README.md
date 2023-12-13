@@ -1,0 +1,2 @@
+# kami.cairo
+cairo compatible 
